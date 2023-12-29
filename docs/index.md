@@ -94,9 +94,11 @@ I read this interesting quote the other day:
 ### 1. Cut the cheese 
 > Make sure that the cheese is cut into little triangles. 
 ### 3.  Slice the tomatoes 
- > Be careful when holding the knife. 
+> Be careful when holding the knife. 
 #### _For more help on tomato slicing see Thomas Jefferson's seminal essay Tom Ate Those_. 
+
 ---
+
 ## Paragraphs
 > <p>We pictured the meek mild creatures where <br>  
 They dwelt in their strawy pen,<br>
